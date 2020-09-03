@@ -1,6 +1,6 @@
 # Python應用於金融數據分析
 
-在這份文件中，我條列出了2020/09/04預計在台灣金融研訓院特約講座分享的內容。
+在這份文件中，我條列出了2020/09/04預計在台灣金融研訓院特約講座分享的內容。根據主辦單位所給的資訊，本次分享的聽眾大部分程式設計是零基礎。
 
 ## Python簡介
 
@@ -90,6 +90,6 @@ list的操作：
 * [pyecharts](https://github.com/pyecharts/pyecharts)
 * plotly + cufflinks
 
-## 下單API的介紹
+## 下單API的介紹 (Optional)
 
 * [shiaoji](https://sinotrade.github.io/)
