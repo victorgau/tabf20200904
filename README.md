@@ -20,7 +20,7 @@ Python的副檔名 (.py, .ipynb)
 
 什麼是變數？
 
-使用[Visualize Python](http://www.pythontutor.com/visualize.html#mode=edit)可以讓初學者稍微了解一下變數在記憶體中的狀況。
+使用[Visualize Python](http://www.pythontutor.com/visualize.html#mode=edit)了解一下變數在記憶體中的狀況。
 
 用 type() 可以看變數裡面有什麼樣的資料！
 
