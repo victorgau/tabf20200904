@@ -1,8 +1,13 @@
 # Python應用於金融數據分析
 
+在這份文件中，我條列出了2020/09/04預計在台灣金融研訓院特約講座要講的內容。
+
 ## Python簡介
 
-Python 使用環境
+投影片：https://bit.ly/3jWfEtR
+
+[Python 使用環境](https://ipython.org/ipython-doc/3/development/how_ipython_works.html
+)
 
 [Colab](https://colab.research.google.com/) 簡介
 
