@@ -80,9 +80,9 @@ list的操作：
 
 ## 資料視覺化 (Optional)
 
-* pyecharts
-* plotly.js
+* [pyecharts](https://github.com/pyecharts/pyecharts)
+* plotly + cufflinks
 
-## 下單API的使用
+## 下單API的介紹
 
-* shiaoji
+* [shiaoji](https://sinotrade.github.io/)
