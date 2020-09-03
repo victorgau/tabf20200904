@@ -52,6 +52,13 @@ list的操作：
   * 抓取下列網址的表格：https://www.pmi.org.tw/?p=5361
 * DataFrame 跟 Series
 
+讀取上市公司基本資料
+
+* [政府資料開放平台](https://data.gov.tw/)
+* [上市公司基本資料](https://data.gov.tw/datasets/search?qs=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99)
+* https://mopsfin.twse.com.tw/opendata/t187ap03_L.csv
+
+
 讀取元大台灣五十成分股
 
 * [元大投信](https://www.yuantaetfs.com/#/Home/Index) > 產品資訊 > 元大台灣卓越50基金
@@ -63,12 +70,6 @@ list的操作：
 * 使用 dict + symbol 存放股價歷史資料
 * 計算投資報酬率
 * 計算多檔股票投資報酬率
-
-讀取公司基本資料
-
-* [政府資料開放平台](https://data.gov.tw/)
-* [上市公司基本資料](https://data.gov.tw/datasets/search?qs=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99)
-* https://mopsfin.twse.com.tw/opendata/t187ap03_L.csv
 
 讀取公司財務報表
 
@@ -87,6 +88,7 @@ list的操作：
 
 ## 資料視覺化 (Optional)
 
+* [mplfinance](https://github.com/matplotlib/mplfinance)
 * [pyecharts](https://github.com/pyecharts/pyecharts)
 * plotly + cufflinks
 
