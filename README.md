@@ -49,6 +49,7 @@ list的操作：
 簡單介紹一下 Pandas 的使用
 
 * 讀取HTML表格
+  * 抓取下列網址的表格：https://www.pmi.org.tw/?p=5361
 * DataFrame 跟 Series
 
 讀取元大台灣五十成分股
