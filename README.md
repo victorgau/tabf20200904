@@ -8,6 +8,12 @@
 
 投影片：https://bit.ly/3jWfEtR
 
+### 核心觀念
+
+<img src="images/python_01.png" width=400>
+
+<img src="images/python_02.png" width=400>
+
 [Python 使用環境](https://ipython.org/ipython-doc/3/development/how_ipython_works.html
 )
 
