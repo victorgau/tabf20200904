@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/tabf20200904/)
 
-在這份文件中，我條列出了2020/09/04預計在台灣金融研訓院特約講座分享的內容。根據主辦單位所給的資訊，本次分享的聽眾大部分程式設計是零基礎。
+在這份文件中，我條列出了2020/09/04預計在台灣金融研訓院特約講座分享的內容。根據主辦單位所給的資訊，本次分享的聽眾大部分程式設計是零基礎，所以我們的分享會從Python簡介開始。
 
 ## Python簡介
 
