@@ -32,6 +32,8 @@ Python的副檔名 (.py, .ipynb)
 * 基本容器型別 (list, tuple, dict, set)
 * 基本語法 (if statement, loops, functions, exception handling)
 
+怎麼做資料型態轉換？
+
 list的操作：
 * indexing
 * slicing
